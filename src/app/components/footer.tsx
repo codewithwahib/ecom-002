@@ -22,7 +22,7 @@ export default function Footer(){
                    <div className=" w-[200px]  ">
                     <h1 className="font-bold text-xl">Support</h1>
                     <ul>
-                      <li className="pt-1 cursor-pointer">111 Bijoy sarani, Dhaka,  DH 1515, Bangladesh.</li>
+                      <li className="pt-1 cursor-pointer">111 Bijoy malir, dsfds,  DH 1515, Pakistan.</li>
                       <li className="pt-1 cursor-pointer">exclusive@gmail.com</li>
                       <li className="pt-1 cursor-pointer">+88015-88888-9999</li>
                     </ul>
@@ -47,41 +47,15 @@ export default function Footer(){
                     </ul>
                    </div>
                    <div className="">
-            <h1 className="font-bold text-xl pb-4">Social Links</h1>
+            <h1 className="font-bold text-xl pb-4"></h1>
        <ul className="list-none flex gap-x-3">
      
-      <li>
-        <Link href="https://youtube.com/@muzaffaritacademy?si=ViSjim7Zs95fDwXQ"  target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faYoutube} className=" text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
-        </Link>
-      </li>
 
-      <li>
-        <Link href="https://www.linkedin.com/in/muzaffar-ali-0b3939315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faLinkedin} className=" text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
-        </Link>
-      </li>
-
-      <li>
-        <Link href="https://www.tiktok.com/@_muzaffar_ali_?_t=8qCq6QIr05a&_r=1 "  target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faTiktok} className=" text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
-        </Link>
-      </li>
-      <li>
-        <Link href="https://web.facebook.com/profile.php?id=100093557110026"  target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faFacebook} className=" text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
-        </Link>
-      </li>
-      <li>
-        <Link href="https://chat.whatsapp.com/EJ4MB6rr9Jm6Nlj4YYMrH1"  target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faWhatsapp} className=" text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
-        </Link>
-       </li>
     </ul>
      </div>
              </div>
         </div>
-        <p className="text-white text-center text-sm pb-4"><FontAwesomeIcon icon={faCopyright}className="text-lg mr-3  " ></FontAwesomeIcon>Copyright Rimel 2022. All right reserved</p>
+        <p className="text-white text-center text-sm pb-4"><FontAwesomeIcon icon={faCopyright}className="text-lg mr-3  " ></FontAwesomeIcon>Copyright codewithwahib 2022. All right reserved</p>
 
 
         </main>
